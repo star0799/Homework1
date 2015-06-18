@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">EX1_1</string>
+    <string name="hello_world">hello_world</string>
+    <string name="action_settings">settings</string>
+    <string name="name">Input your name here</string>
+    <string name="ShowName">Name:</string>
+    <string name="phone">Input your name here</string>
+    <string name="ShowPhone">Phone Number</string>
+    <string name="btnSubmit">SUBMIT</string>
+    <string name="saveData">Save my information</string>
+    <string name="ShowSave">The data is saved</string>
+</resources>

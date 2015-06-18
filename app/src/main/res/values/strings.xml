@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EX1_1</string>
+    <string name="hello_world">哈囉!世界!</string>
+    <string name="action_settings">設定</string>
+    <string name="name">輸入您的姓名</string>
+    <string name="ShowName">姓名:</string>
+    <string name="phone">輸入您的電話</string>
+    <string name="ShowPhone">電話號碼:</string>
+    <string name="btnSubmit">確定</string>
+    <string name="saveData">儲存資料</string>
+    <string name="ShowSave">資料已儲存</string>
+</resources>
